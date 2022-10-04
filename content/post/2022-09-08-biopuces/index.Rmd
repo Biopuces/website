@@ -1,0 +1,30 @@
+---
+title: Biopuces 08 septembre 2022
+author: ''
+date: '2022-09-08'
+slug: biopuces-08-septembre-2022
+categories: []
+tags: 
+- analyse de données
+- ASTERICS
+---
+
+
+Présentation de **Laurence Liaubet**
+
+Quelques exemples d’utilisation d’Asterics : A Tool for the ExploRation and Integration of omiCS data
+
+<!-- Vous trouverez le diaporama à ce lien :  -->
+
+
+
+
+Lien pour ASTERICS: https://asterics.miat.inrae.fr/
+
+
+
+<div align="center">
+![](images/logo_asterics.png){width=30%}
+</div>
+
+
