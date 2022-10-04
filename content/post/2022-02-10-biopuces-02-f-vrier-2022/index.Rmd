@@ -1,0 +1,27 @@
+---
+title: Biopuces 10 février 2022
+author: ''
+date: '2022-02-10'
+slug: biopuces-10-f-vrier-2022
+categories: []
+tags: 
+- integration de données
+- mixOmics
+---
+
+Présentation de **Sébastien Déjean**,  Multi-Omics data integration with the mixOmics package
+
+
+Vous trouverez la présentation à ce lien : 
+
+[pdf](/diapos/mixOmics_biopuces_2022_dejean.pdf)
+
+Pour plus d'informations sur le package R mixOmics: http://mixomics.org/
+
+<!-- <center> -->
+
+<!-- </center> -->
+
+<div align="right">
+![](images/mixomics_logo.png){width=20%}
+</div>
