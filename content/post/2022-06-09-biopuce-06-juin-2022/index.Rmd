@@ -1,0 +1,14 @@
+---
+title: Biopuces 06 juin 2022
+author: ''
+date: '2022-06-09'
+slug: biopuce-06-juin-2022
+categories: []
+tags: []
+---
+
+Présentation de **Muriel Bonnet**, Traitement de données phénotypiques et « omiques » pour la compréhension des mécanismes et la prédiction de caractères de production chez les ruminants
+
+Vous trouverez le diaporama à ce lien : 
+
+[pdf](/diapos/2022_WorkshopBiopuce_UMRherbivores_MBonnet_Diffusion.pdf)
