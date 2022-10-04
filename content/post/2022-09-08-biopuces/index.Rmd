@@ -14,9 +14,7 @@ Présentation de **Laurence Liaubet**
 
 Quelques exemples d’utilisation d’Asterics : A Tool for the ExploRation and Integration of omiCS data
 
-<!-- Vous trouverez le diaporama à ce lien :  -->
-
-
+Vous trouverez le diaporama à ce lien : [pdf](/diapos/Asterics_Liaubet_SEP2022.pdf).
 
 
 Lien pour ASTERICS: https://asterics.miat.inrae.fr/
