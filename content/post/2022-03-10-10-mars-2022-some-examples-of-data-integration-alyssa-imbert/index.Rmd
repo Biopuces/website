@@ -17,9 +17,6 @@ La première partie de cette présentation porte sur une méthode d'imputation, 
 La seconde partie de la présentation porte sur le projet ProMetIS avec de l’intégration de données protéomiques et métabolomiques mesurées par LC-MS en utilisant des approches multi-blocs tels que MOFA, RGCCA/sGCCA. 
 
 
-Vous trouverez le diaporama à ce lien : 
-
-
-[pdf](/diapos/biopuces_imbert_2022_03_10.pdf)
+Vous trouverez le diaporama à ce lien : [pdf](/diapos/biopuces_imbert_2022_03_10.pdf).
 
 

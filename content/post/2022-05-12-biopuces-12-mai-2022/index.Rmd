@@ -10,9 +10,7 @@ tags: []
 Présentation de **Carine Genet et Gabryelle Agoutin**, Caractérisation de réseaux de gènes et de lncRNA régulés par BMP15 chez la truie et la vache.
 
 
-Vous trouverez le diaporama à ce lien : 
-
-[pdf](/diapos/GENET_Carine_Reseau_genes_12mai2022.pdf)
+Vous trouverez le diaporama à ce lien : [pdf](/diapos/GENET_Carine_Reseau_genes_12mai2022.pdf).
 
 
  

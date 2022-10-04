@@ -12,9 +12,7 @@ tags:
 Présentation de **Sébastien Déjean**,  Multi-Omics data integration with the mixOmics package
 
 
-Vous trouverez la présentation à ce lien : 
-
-[pdf](/diapos/mixOmics_biopuces_2022_dejean.pdf)
+Vous trouverez la présentation à ce lien : [pdf](/diapos/mixOmics_biopuces_2022_dejean.pdf).
 
 Pour plus d'informations sur le package R mixOmics: http://mixomics.org/
 

@@ -9,6 +9,4 @@ tags: []
 
 Présentation de **Muriel Bonnet**, Traitement de données phénotypiques et « omiques » pour la compréhension des mécanismes et la prédiction de caractères de production chez les ruminants
 
-Vous trouverez le diaporama à ce lien : 
-
-[pdf](/diapos/2022_WorkshopBiopuce_UMRherbivores_MBonnet_Diffusion.pdf)
+Vous trouverez le diaporama à ce lien : [pdf](/diapos/2022_WorkshopBiopuce_UMRherbivores_MBonnet_Diffusion.pdf).

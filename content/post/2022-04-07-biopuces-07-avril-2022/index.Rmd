@@ -13,7 +13,5 @@ tags:
 Présentation de **Harold Durufle Déjean**,  Analysis and integration of omics data in a context of plant abiotic stress: an example of workflow with the mixOmics package
 
 
-Vous trouverez le diaporama à ce lien : 
-
-[pdf](/diapos/220407_BioPuce_durufle.pdf)
+Vous trouverez le diaporama à ce lien : [pdf](/diapos/220407_BioPuce_durufle.pdf).
 
