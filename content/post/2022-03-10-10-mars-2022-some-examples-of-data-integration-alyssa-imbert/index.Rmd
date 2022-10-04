@@ -1,0 +1,22 @@
+---
+title: Biopuces 10 mars 2022
+author: ''
+date: '2022-03-10'
+slug: 10-mars-2022-some-examples-of-data-integration-alyssa-imbert
+categories: []
+tags: 
+- integration de données
+- données manquantes
+---
+
+
+Présentation d'**Alyssa Imbert**,  Some examples of data integration
+
+La première partie de cette présentation porte sur une méthode d'imputation, l’imputation multiple hot-deck,  qui permet d’imputer des individus en entier afin d’améliorer la qualité de l’inférence de réseaux et qui nécessite d'utiliser des données auxiliaires. Puis dans un second temps, je présenterais l’intégration de données transcriptomiques (mesurées par QuantSeq) et de données cliniques en utilisant une approche basée sur de l’inférence de réseaux.
+
+La seconde partie de la présentation porte sur le projet ProMetIS avec de l’intégration de données protéomiques et métabolomiques mesurées par LC-MS en utilisant des approches multi-blocs tels que MOFA, RGCCA/sGCCA. 
+
+
+Vous trouverez le diaporama à ce lien : 
+
+
