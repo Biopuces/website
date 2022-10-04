@@ -1,8 +1,8 @@
 ---
 title: Biopuces 13 octobre 2022
 author: ''
-date: '2022-10-4'
-slug: biopuces-13-octobre-2022
+date: '2022-10-03'
+slug: biopuces-03-octobre-2022
 categories: []
 tags: 
 - metabolomics
