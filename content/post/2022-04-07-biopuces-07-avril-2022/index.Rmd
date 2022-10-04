@@ -1,0 +1,19 @@
+---
+title: Biopuces 07 avril 2022
+author: ''
+date: '2022-04-07'
+slug: biopuces-07-avril-2022
+categories: []
+tags:
+- integration de données
+- mixOmics
+---
+
+
+Présentation de **Harold Durufle Déjean**,  Analysis and integration of omics data in a context of plant abiotic stress: an example of workflow with the mixOmics package
+
+
+Vous trouverez le diaporama à ce lien : 
+
+[pdf](/diapos/220407_BioPuce_durufle.pdf)
+
