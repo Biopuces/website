@@ -1,15 +1,15 @@
 ---
 title: Biopuces 13 octobre 2022
 author: ''
-date: '2022-10-03'
-slug: biopuces-03-octobre-2022
+date: '2022-10-13'
+slug: biopuces-13-octobre-2022
 categories: []
 tags: 
 - metabolomics
 ---
 
-Présentation de **Céline Bougel**
+Présentation de **Céline Bougel** 
 
 Identification, par une approche de métabolomique, des voies métaboliques associées à la fragilité dans une cohorte de personnes âgées.
 
-<!-- Vous trouverez le diaporama à ce lien : [pdf](/diapos/Asterics_Liaubet_SEP2022.pdf). -->
+Vous trouverez le diaporama à ce lien : [pdf](/diapos/MetaMob_Biopuces_diapo.pdf).
