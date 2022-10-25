@@ -2,9 +2,13 @@
 title: Biopuces 10 Novembre
 author: ''
 date: '2022-11-10'
-slug: []
+slug: biopuces-10-novembre-2022
 categories: []
 tags: []
 ---
 
-Présentation de **à venir**, titre à venir
+Présentation de **Thomas Burger**
+
+Well Plate Maker: un petit outil bien commode pour la multi-omique clinique 
+
+<!-- Vous trouverez le diaporama à ce lien : [pdf](/diapos/name_pres.pdf). -->
