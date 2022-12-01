@@ -9,4 +9,4 @@ tags: []
 
 Présentation de **Bertrand Huguenin-Bizot**
 
-Titre à venir
+Statistiques intégratives de données Omics issues de consortia microbiens impliqués dans la dégradation de la lignocellulose 
