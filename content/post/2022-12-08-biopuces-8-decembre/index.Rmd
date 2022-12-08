@@ -9,4 +9,7 @@ tags: []
 
 Présentation de **Bertrand Huguenin-Bizot**
 
+Vous trouverez le diaporama à ce lien : [pdf](/diapos/Présentation_Biopuce_Bertrand_Huguenin_Bizot.pdf).
+
+
 Statistiques intégratives de données Omics issues de consortia microbiens impliqués dans la dégradation de la lignocellulose 
