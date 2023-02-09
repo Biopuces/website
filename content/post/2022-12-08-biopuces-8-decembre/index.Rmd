@@ -4,7 +4,9 @@ author: ''
 date: '2022-12-08'
 slug: []
 categories: []
-tags: []
+tags: 
+- intégration de données
+- communautés microbiennes 
 ---
 
 Présentation de **Bertrand Huguenin-Bizot**

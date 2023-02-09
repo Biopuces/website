@@ -4,7 +4,9 @@ author: ''
 date: '2022-11-10'
 slug: biopuces-10-novembre-2022
 categories: []
-tags: []
+tags: 
+- randomisation
+- Well Plate Maker
 ---
 
 Présentation de **Thomas Burger**
