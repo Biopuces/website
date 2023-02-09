@@ -1,7 +1,7 @@
 ---
 title: Biopuces 10 Novembre 2022
 author: ''
-date: '2022-11-09'
+date: '2022-11-10'
 slug: biopuces-10-novembre-2022
 categories: []
 tags: []

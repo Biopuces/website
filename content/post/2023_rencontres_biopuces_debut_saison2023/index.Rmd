@@ -1,7 +1,7 @@
 ---
 title: Les rencontres Biopuces du début de saison 2023
 author: ''
-date: '2022-11-14'
+date: '2023-01-01'
 slug: []
 categories: []
 tags: []
