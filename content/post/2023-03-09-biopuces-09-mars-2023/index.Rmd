@@ -15,4 +15,4 @@ Studying the genetic control of abiotic stress-related metabolites using GWAS
 Résumé : 
 The genetic bases of tolerance to abiotic stresses in sunflower is of great importance in order to obtain hybrids that can more efficiently cope with the challenges presented by the present-day scenario of global warming. Over the last years, several studies have tried to characterize the molecular mechanisms underlying this kind of physiological processes in this crop, but mostly focusing on transcriptomics, proteomics, and metabolomics. Here, we describe the results of the first abiotic stress-related metabolome genome-wide association study (mGWAS) performed in sunflower to-date, which can improve the understanding of how this species responds to its major environmental stressors and provide important information for breeding.
 
-<!-- Vous trouverez le diaporama à ce lien : [pdf](/diapos/titre_presentation.pdf). -->
+Vous trouverez le diaporama à ce lien : [pdf](/diapos/Presentation_2023_03_09_Biopuces.pdf). 
