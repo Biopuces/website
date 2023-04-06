@@ -1,0 +1,27 @@
+---
+title: Biopuces 04 avril 2023
+author: ''
+date: '2023-04-06'
+slug: biopuces-04-avril-2023
+categories: []
+tags: 
+- integration de données
+- analyse triadique partielle
+- transcriptome bovin
+---
+
+
+Présentation de **Denis Laloe**, Méthodes d’analyse intégrative spatiotemporelle de données omiques. Transcriptome et développement embryonnaire bovin 
+
+
+Vous trouverez le diaporama à ce lien : [pdf](/diapos/Biopuces_Laloe_2023_04_06.pdf).
+
+Pour plus d'information sur le package *ade4*, voici la référence du livre : 
+**Thioulouse, J., Dray, S., Dufour, A. B., Siberchicot, A., Jombart, T., & Pavoine, S. (2018). Multivariate analysis of ecological data with ade4. Springer** (https://link.springer.com/book/10.1007/978-1-4939-8850-1).
+
+
+Et voici le site sur la journée « analyses factorielles » : https://analyses-factorielles.journees.inrae.fr/.
+Des présentations devraient être accessibles sur ce site prochainement.
+
+
+
