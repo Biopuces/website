@@ -1,0 +1,22 @@
+---
+title: Biopuces 25 mai 2023, présentation de deux étudiant en Master 2
+author: ''
+date: '2023-05-25'
+slug: []
+categories: []
+tags: 
+- QTL
+- integration de données 
+---
+
+Deux présentations d'étudiants en Master 2: 
+
+* **Arthur Durante** nous parlera de *Détection de QTL d’expressions chez le porc élevé en milieu tempéré ou tropical*; 
+
+<!-- Vous trouverez son diaporama à ce lien : [pdf](/diapos/Biopuces_Laloe_2023_04_06.pdf). -->
+
+* **Nassim Duprat** nous parlera d'*Intégration multi-omiques de l'endomètre de porc en fin de gestation*.
+
+<!-- Vous trouverez son diaporama à ce lien : [pdf](/diapos/Biopuces_Laloe_2023_04_06.pdf). -->
+
+ 
