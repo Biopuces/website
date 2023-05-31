@@ -11,12 +11,13 @@ tags:
 
 Deux présentations d'étudiants en Master 2: 
 
-* **Arthur Durante** nous parlera de *Détection de QTL d’expressions chez le porc élevé en milieu tempéré ou tropical*; 
+* **Arthur Durante** nous parlera de *détection de QTL d’expressions chez le porc élevé en milieu tempéré ou tropical*; 
 
 Vous trouverez son diaporama à ce lien : [pdf](/diapos/Biopuces_2023mai_Durante.pdf). 
 
-* **Nassim Duprat** nous parlera d'*Intégration multi-omiques de l'endomètre de porc en fin de gestation*.
+* **Nassim Duprat** nous parlera d'*intégration multi-omiques de l'endomètre de porc en fin de gestation*.
 
-<!-- Vous trouverez son diaporama à ce lien : [pdf](/diapos/Biopuces_Laloe_2023_04_06.pdf). -->
+Vous trouverez son diaporama à ce lien : [pdf](/diapos/Biopuces_2023mai_Duprat.pdf).
+
  
  
