@@ -1,5 +1,5 @@
 ---
-title: Biopuces 04 avril 2023
+title: Biopuces 04 avril 2023 ; méthodes d’analyse intégrative spatiotemporelle de données omiques 
 author: ''
 date: '2023-04-06'
 slug: biopuces-04-avril-2023
