@@ -1,0 +1,17 @@
+---
+title: '22 juin 2023: MatrixApp, application RShiny pour explorer les résultats d''analyses
+  transcriptomiques '
+author: ''
+date: '2023-06-22'
+slug: []
+categories: []
+tags:
+  - transcriptomics
+  - RShiny
+---
+
+ **Yannick Lippi ** nous parlera de son application Rshiny *MatrixApp* qui permet d'explorer les résultats d'analyses transcriptomiques. 
+
+<!-- Vous trouverez son diaporama à ce lien : [pdf](/diapos/Biopuces_2023mai_Durante.pdf). -->
+
+Pour plus d'information sur cette application RShiny **Matrix**: https://matrix.toulouse.inra.fr/.
