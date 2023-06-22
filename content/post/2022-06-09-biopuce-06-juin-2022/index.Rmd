@@ -1,5 +1,5 @@
 ---
-title: Biopuces 06 juin 2022
+title: Traitement de données phénotypiques et « omiques » pour la compréhension des mécanismes et la prédiction de caractères de production chez les ruminants, Muriel Bonnet
 author: ''
 date: '2022-06-09'
 slug: biopuce-06-juin-2022

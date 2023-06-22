@@ -1,5 +1,5 @@
 ---
-title: Biopuces 13 octobre 2022
+title: Identification, par une approche de métabolomique, des voies métaboliques associées à la fragilité dans une cohorte de personnes âgées, Céline Bougel
 author: ''
 date: '2022-10-13'
 slug: biopuces-13-octobre-2022

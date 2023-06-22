@@ -1,5 +1,5 @@
 ---
-title: Biopuces 8 Decembre 2022
+title: Statistiques intégratives de données Omics issues de consortia microbiens impliqués dans la dégradation de la lignocellulose, Bertrand Huguenin-Bizot 
 author: ''
 date: '2022-12-08'
 slug: []
