@@ -12,6 +12,11 @@ tags:
 
  **Yannick Lippi ** nous parlera de son application Rshiny *MatrixApp* qui permet d'explorer les résultats d'analyses transcriptomiques. 
 
-<!-- Vous trouverez son diaporama à ce lien : [pdf](/diapos/Biopuces_2023mai_Durante.pdf). -->
+Vous trouverez son diaporama à ce lien : [pdf](/diapos/20230622_GpBiopuces_Presentation_MAtrixApp.pdf).
 
-Pour plus d'information sur cette application RShiny **Matrix**: https://matrix.toulouse.inra.fr/.
+
+Pour retrouver cette application RShiny **MatrixApp**: 
+
+* version 1 instance /multi-users : https://matrixapp.sk8.inrae.fr/
+
+* version multi-instances / multi-users : https://shiny.sk8.inrae.fr/app/get-trix-matrixapp (shinyProxy)
