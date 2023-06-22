@@ -19,3 +19,9 @@ Vous trouverez le diaporama à ce lien : [pdf](/diapos/WPM_TB_2022.pdf).
 Le lien vers la publication : https://doi.org/10.1093/bioinformatics/btab065
 et celui vers le package Bioconductor **wpm** : https://bioconductor.org/packages/release/bioc/html/wpm.html .
 
+<!-- <center> -->
+
+<!-- </center> -->
+
+<div align="center">
+![](images/logo_wpm.jpg){width=20%}
