@@ -19,3 +19,10 @@ Pour retrouver cette application RShiny **MatrixApp**:
 * version 1 instance /multi-users : https://matrixapp.sk8.inrae.fr/
 
 * version multi-instances / multi-users : https://shiny.sk8.inrae.fr/app/get-trix-matrixapp (shinyProxy)
+
+<!-- <center> -->
+
+<!-- </center> -->
+
+<div align="right">
+![](images/logo_matrixapp.png){width=20%}
