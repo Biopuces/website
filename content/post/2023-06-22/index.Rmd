@@ -1,6 +1,5 @@
 ---
-title: 'MatrixApp, application RShiny pour explorer les résultats d''analyses, Yannick Lippi
-  transcriptomiques '
+title: MatrixApp, application RShiny pour explorer les résultats d'analyses transcriptomiques, Yannick Lippi
 author: ''
 date: '2023-06-22'
 slug: []

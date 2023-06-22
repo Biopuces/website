@@ -1,5 +1,5 @@
 ---
-title: Biopuces 09 mars 2023
+title: Studying the genetic control of abiotic stress-related metabolites using GWAS, Marco Moroldo
 author: ''
 date: '2023-03-09'
 slug: []
