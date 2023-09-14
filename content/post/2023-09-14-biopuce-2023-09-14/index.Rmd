@@ -1,0 +1,17 @@
+---
+title: Prédire l’efficience alimentaire de l’ovin en intégrant des données hétérogènes; analyse multi-omique sur plusieurs années, Quentin Le-Graverand
+author: ''
+date: '2023-09-14'
+slug: []
+categories: []
+tags:
+  - intégration de données
+  - mixOmics
+---
+
+Présentation de **Quentin Le-Graverand**
+
+Prédire l’efficience alimentaire de l’ovin en intégrant des données hétérogènes : analyse multi-omique sur plusieurs années
+
+Vous trouverez le diaporama à ce lien : [pdf](/diapos/biopuces_2023_09_QLG.pdf).
+
