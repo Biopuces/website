@@ -1,6 +1,6 @@
 ---
 description:  
-title: Liste
+title: Liste des présentations
 ---
 
 
@@ -21,4 +21,4 @@ title: Liste
 * 12 Mai 2022 : **Carine Genet** et **Gabryelle Agoutin**, _Caractérisation de réseaux de gènes et de lncRNA régulés par BMP15 chez la truie et la vache_
 * 7 Avril 2022 :  **Harold Durufle**, _Analysis and integration of omics data in a context of plant abiotic stress, an example of workflow with the mixOmics package_
 * 10 Mars 2022 : **Alyssa Imbert**, _Some examples of data integration_
-* 10 Février :  **Sébastien Déjean**, _Multi-Omics data integration with the mixOmics package_
+* 10 Février :  **Sébastien Déjean**, _Multi-Omics data integration with the mixOmics package_ 
