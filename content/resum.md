@@ -6,7 +6,7 @@ title: Liste des présentations
 
 # **Saison 2022-2023**
 
-* 19 Octobre 2023 : **Céline Bobby**, _Web server pour les analyses d’enrichissement Gene Ontology, réseaux…_
+* 19 Octobre 2023 : **Céline Boby**, _Web server pour les analyses d’enrichissement Gene Ontology, réseaux…_
 * 14 Septembre 2023 : **Quentin Le-Graverand**, _Prédire l'efficience alimentaire de l'ovin en intégrant des données hétérogènes: analyse multi-omique sur plusieurs années_
 * 22 Juin 2023 : **Yannick Lippi**, _MATRix app, une application RShiny pour explorer les résultats d'analyses transcriptomiques_
 * 25 Mai 2023 : **Arthur Durante**, _Détection de QTL d’expressions chez le porc élevé en milieu tempéré ou tropica_ et **Nassim Duprat**, _Intégration multi-omiques de l’endomètre de porc en fin de gestation_
