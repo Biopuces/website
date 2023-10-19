@@ -3,6 +3,11 @@ description:
 title: Liste des présentations
 ---
 
+# **A venir**
+
+* 23 Novembre 2023 : **Marie Tremblay-Franco**
+
+* 14 Décembre 2023 : **Elise Maigné**
 
 # **Saison 2022-2023**
 
