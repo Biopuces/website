@@ -7,7 +7,7 @@ title: Liste des présentations
 
 * 14 Décembre 2023 : **Elise Maigné**
 
-# **Saison 2022-2023**
+# **Année 2023**
 
 * 23 Novembre 2023 : **Marie Tremblay-Franco**: Intégration de données de métabolomique multimodales pour prédire le déclin cognitif de personnes âgées
 * 19 Octobre 2023 : **Céline Boby**, _Web server pour les analyses d’enrichissement Gene Ontology, réseaux…_
@@ -17,6 +17,9 @@ title: Liste des présentations
 * 6 Avril 2023 : **Denis Laloe**, _Méthodes d’analyse intégrative spatiotemporelle de données omiques_
 * 9 Mars 2023 : **Marco Moroldo**, _Studying the genetic control of abiotic stress-related metabolites using GWAS_
 * 9 Février 2023 : **Nuria Mach-Casellas**, _Gut microbiome in horses, the sprint towards endurance fitness_
+
+# **Année 2022**
+
 * 8 Décembre 2022 :  **Bertrand Huguenin-Bizot**, _Statistiques intégratives de données Omics issues de consortia microbiens impliqués dans la dégradation de la lignocellulose_
 * 10 Novembre 2022 : **Thomas Burger**, _Well Plate Maker, un petit outil bien commode pour la multi-omique clinique
 * 13 Octobre 2022 : **Céline Bougel**, _Identification, par une approche de métabolomique, des voies métaboliques associées à la fragilité dans une cohorte de personnes âgées_
