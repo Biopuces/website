@@ -5,12 +5,11 @@ title: Liste des présentations
 
 # **A venir**
 
-* 23 Novembre 2023 : **Marie Tremblay-Franco**
-
 * 14 Décembre 2023 : **Elise Maigné**
 
 # **Saison 2022-2023**
 
+* 23 Novembre 2023 : **Marie Tremblay-Franco**: Intégration de données de métabolomique multimodales pour prédire le déclin cognitif de personnes âgées
 * 19 Octobre 2023 : **Céline Boby**, _Web server pour les analyses d’enrichissement Gene Ontology, réseaux…_
 * 14 Septembre 2023 : **Quentin Le-Graverand**, _Prédire l'efficience alimentaire de l'ovin en intégrant des données hétérogènes: analyse multi-omique sur plusieurs années_
 * 22 Juin 2023 : **Yannick Lippi**, _MATRix app, une application RShiny pour explorer les résultats d'analyses transcriptomiques_
