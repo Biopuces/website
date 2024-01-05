@@ -5,27 +5,27 @@ title: Liste des présentations
 
 # **A venir**
 
-* 14 Décembre 2023 : **Elise Maigné**
+* 14 Décembre 2023 : **Elise Maigné** (annulé)
 
 # **Année 2023**
 
 * 23 Novembre 2023 : **Marie Tremblay-Franco**: Intégration de données de métabolomique multimodales pour prédire le déclin cognitif de personnes âgées
-* 19 Octobre 2023 : **Céline Boby**, _Web server pour les analyses d’enrichissement Gene Ontology, réseaux…_
-* 14 Septembre 2023 : **Quentin Le-Graverand**, _Prédire l'efficience alimentaire de l'ovin en intégrant des données hétérogènes: analyse multi-omique sur plusieurs années_
-* 22 Juin 2023 : **Yannick Lippi**, _MATRix app, une application RShiny pour explorer les résultats d'analyses transcriptomiques_
-* 25 Mai 2023 : **Arthur Durante**, _Détection de QTL d’expressions chez le porc élevé en milieu tempéré ou tropica_ et **Nassim Duprat**, _Intégration multi-omiques de l’endomètre de porc en fin de gestation_
-* 6 Avril 2023 : **Denis Laloe**, _Méthodes d’analyse intégrative spatiotemporelle de données omiques_
-* 9 Mars 2023 : **Marco Moroldo**, _Studying the genetic control of abiotic stress-related metabolites using GWAS_
-* 9 Février 2023 : **Nuria Mach-Casellas**, _Gut microbiome in horses, the sprint towards endurance fitness_
+* 19 Octobre 2023 : **Céline Boby**, _Web server pour les analyses d’enrichissement Gene Ontology, réseaux…_ ([pdf](/diapos/Biopuces_2023_10_19_Boby.pdf))
+* 14 Septembre 2023 : **Quentin Le-Graverand**, _Prédire l'efficience alimentaire de l'ovin en intégrant des données hétérogènes: analyse multi-omique sur plusieurs années_ ([pdf](/diapos/biopuces_2023_09_QLG.pdf))
+* 22 Juin 2023 : **Yannick Lippi**, _MATRix app, une application RShiny pour explorer les résultats d'analyses transcriptomiques_ ([pdf](/diapos/20230622_GpBiopuces_Presentation_MAtrixApp.pdf))
+* 25 Mai 2023 : **Arthur Durante**, _Détection de QTL d’expressions chez le porc élevé en milieu tempéré ou tropica_ ([pdf](/diapos/Biopuces_2023mai_Durante.pdf)) et **Nassim Duprat**, _Intégration multi-omiques de l’endomètre de porc en fin de gestation_ ([pdf](/diapos/Biopuces_2023mai_Duprat.pdf))
+* 6 Avril 2023 : **Denis Laloe**, _Méthodes d’analyse intégrative spatiotemporelle de données omiques_ ([pdf](/diapos/Biopuces_Laloe_2023_04_06.pdf))
+* 9 Mars 2023 : **Marco Moroldo**, _Studying the genetic control of abiotic stress-related metabolites using GWAS_ ([pdf](/diapos/Presentation_2023_03_09_Biopuces.pdf))
+* 9 Février 2023 : **Nuria Mach-Casellas**, _Gut microbiome in horses, the sprint towards endurance fitness_ ([pdf](/diapos/Biopuces_nuria_2023_02_09.pdf))
 
 # **Année 2022**
 
-* 8 Décembre 2022 :  **Bertrand Huguenin-Bizot**, _Statistiques intégratives de données Omics issues de consortia microbiens impliqués dans la dégradation de la lignocellulose_
-* 10 Novembre 2022 : **Thomas Burger**, _Well Plate Maker, un petit outil bien commode pour la multi-omique clinique
-* 13 Octobre 2022 : **Céline Bougel**, _Identification, par une approche de métabolomique, des voies métaboliques associées à la fragilité dans une cohorte de personnes âgées_
-* 8 Septembre 2022 : **Laurence Liaubet**, _Quelques exemples d’utilisation d’Asterics, A Tool for the ExploRation and Integration of omiCS data_
-* 9 Juin 2022 : **Muriel Bonnet**, _Traitement de données phénotypiques et « omiques » pour la compréhension des mécanismes et la prédiction de caractères de production chez les ruminants_
-* 12 Mai 2022 : **Carine Genet** et **Gabryelle Agoutin**, _Caractérisation de réseaux de gènes et de lncRNA régulés par BMP15 chez la truie et la vache_
-* 7 Avril 2022 :  **Harold Durufle**, _Analysis and integration of omics data in a context of plant abiotic stress, an example of workflow with the mixOmics package_
-* 10 Mars 2022 : **Alyssa Imbert**, _Some examples of data integration_
-* 10 Février :  **Sébastien Déjean**, _Multi-Omics data integration with the mixOmics package_ 
+* 8 Décembre 2022 :  **Bertrand Huguenin-Bizot**, _Statistiques intégratives de données Omics issues de consortia microbiens impliqués dans la dégradation de la lignocellulose_ ([pdf](/diapos/Présentation_Biopuce_Bertrand_Huguenin_Bizot.pdf))
+* 10 Novembre 2022 : **Thomas Burger**, _Well Plate Maker, un petit outil bien commode pour la multi-omique clinique_ ([pdf](/diapos/WPM_TB_2022.pdf))
+* 13 Octobre 2022 : **Céline Bougel**, _Identification, par une approche de métabolomique, des voies métaboliques associées à la fragilité dans une cohorte de personnes âgées_ ([pdf](/diapos/MetaMob_Biopuces_diapo.pdf))
+* 8 Septembre 2022 : **Laurence Liaubet**, _Quelques exemples d’utilisation d’Asterics, A Tool for the ExploRation and Integration of omiCS data_ ([pdf](/diapos/Asterics_Liaubet_8SEP2022.pdf))
+* 9 Juin 2022 : **Muriel Bonnet**, _Traitement de données phénotypiques et « omiques » pour la compréhension des mécanismes et la prédiction de caractères de production chez les ruminants_ ([pdf](/diapos/2022_WorkshopBiopuce_UMRherbivores_MBonnet_Diffusion.pdf))
+* 12 Mai 2022 : **Carine Genet** et **Gabryelle Agoutin**, _Caractérisation de réseaux de gènes et de lncRNA régulés par BMP15 chez la truie et la vache_ ([pdf](/diapos/GENET_Carine_Reseau_genes_12mai2022.pdf))
+* 7 Avril 2022 :  **Harold Durufle**, _Analysis and integration of omics data in a context of plant abiotic stress, an example of workflow with the mixOmics package_ ([pdf](/diapos/220407_BioPuce_durufle.pdf))
+* 10 Mars 2022 : **Alyssa Imbert**, _Some examples of data integration_ ([pdf](/diapos/biopuces_imbert_2022_03_10.pdf))
+* 10 Février :  **Sébastien Déjean**, _Multi-Omics data integration with the mixOmics package_ ([pdf](/diapos/mixOmics_biopuces_2022_dejean.pdf))
