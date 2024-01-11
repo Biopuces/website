@@ -5,11 +5,14 @@ title: Liste des présentations
 
 # **A venir**
 
-* 14 Décembre 2023 : **Elise Maigné** (annulé)
+* 29 Février 2024 : **Elise Maigné**, Eviter le sur-apprentissage en machine learning 
+* 25 Janvier 2024 : **Guilhem Huau**, Analyse longitudinale des mécanismes d’adaptation à la chaleur chez le porc à partir de données omiques  
+
+# **Année 2024**
 
 # **Année 2023**
 
-* 23 Novembre 2023 : **Marie Tremblay-Franco**: Intégration de données de métabolomique multimodales pour prédire le déclin cognitif de personnes âgées
+* 23 Novembre 2023 : **Marie Tremblay-Franco**, Intégration de données de métabolomique multimodales pour prédire le déclin cognitif de personnes âgées
 * 19 Octobre 2023 : **Céline Boby**, _Web server pour les analyses d’enrichissement Gene Ontology, réseaux…_ ([pdf](/diapos/Biopuces_2023_10_19_Boby.pdf))
 * 14 Septembre 2023 : **Quentin Le-Graverand**, _Prédire l'efficience alimentaire de l'ovin en intégrant des données hétérogènes: analyse multi-omique sur plusieurs années_ ([pdf](/diapos/biopuces_2023_09_QLG.pdf))
 * 22 Juin 2023 : **Yannick Lippi**, _MATRix app, une application RShiny pour explorer les résultats d'analyses transcriptomiques_ ([pdf](/diapos/20230622_GpBiopuces_Presentation_MAtrixApp.pdf))
