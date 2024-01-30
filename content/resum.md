@@ -6,9 +6,11 @@ title: Liste des présentations
 # **A venir**
 
 * 29 Février 2024 : **Elise Maigné**, Eviter le sur-apprentissage en machine learning 
-* 25 Janvier 2024 : **Guilhem Huau**, Analyse longitudinale des mécanismes d’adaptation à la chaleur chez le porc à partir de données omiques  
+ 
 
 # **Année 2024**
+
+* 25 Janvier 2024 : **Guilhem Huau**, Analyse longitudinale des mécanismes d’adaptation à la chaleur chez le porc à partir de données omiques 
 
 # **Année 2023**
 
