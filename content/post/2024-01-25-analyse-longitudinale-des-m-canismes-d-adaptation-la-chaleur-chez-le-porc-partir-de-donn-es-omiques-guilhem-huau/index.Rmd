@@ -13,4 +13,4 @@ Présentation de **Guilhem Huau**, Analyse longitudinale des mécanismes d’ada
   à partir de données omiques
   
   
-<!-- Vous trouverez la présentation à ce lien : [pdf](/diapos/mixOmics_biopuces_2022_dejean.pdf). -->
+Vous trouverez la présentation à ce lien : [pdf](/diapos/Biopuces_Janvier_2024.pdf).
