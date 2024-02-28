@@ -5,6 +5,10 @@ title: Liste des présentations
 
 # **A venir**
 
+* 13 Juin 2024
+* 30 Mai 2024
+* 25 Avril 2024
+* 21 Mars 2024 : **Yareni Perez-Diaz** 
 * 29 Février 2024 : **Elise Maigné**, Eviter le sur-apprentissage en machine learning 
  
 
