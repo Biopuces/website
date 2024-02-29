@@ -15,3 +15,5 @@ Vous trouverez la présentation à ce lien : [pdf](/diapos/2024_Eviter_surappren
 
 Je vous mets également le lien pour le livre mentionné pendant la présentation : 
 https://doi.org/10.1201/9780367816377 et une version en ligne : https://bradleyboehmke.github.io/HOML/
+
+Et pour les personnes qui souhaiteraient plus d'informations sur le package R caret, voici une vignette intéressante : https://topepo.github.io/caret/
