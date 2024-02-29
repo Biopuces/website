@@ -1,0 +1,15 @@
+---
+title: Eviter surapprentissage en machine learning, Elise Maigné
+author: ''
+date: '2024-02-29'
+slug: []
+categories: []
+tags: []
+---
+
+
+Présentation de **Elise Maigné**, Eviter le sur-apprentissage en machine learning 
+  
+  
+Vous trouverez la présentation à ce lien : [pdf](/diapos/2024_Eviter_surapprentissage_machinelearning.pdf).
+
