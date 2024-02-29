@@ -9,10 +9,11 @@ title: Liste des présentations
 * 30 Mai 2024
 * 25 Avril 2024
 * 21 Mars 2024 : **Yareni Perez-Diaz** 
-* 29 Février 2024 : **Elise Maigné**, Eviter le sur-apprentissage en machine learning 
- 
+
 
 # **Année 2024**
+
+* 29 Février 2024 : **Elise Maigné**, Eviter le sur-apprentissage en machine learning ([pdf](/diapos/2024_Eviter_surapprentissage_machinelearning.pdf))
 
 * 25 Janvier 2024 : **Guilhem Huau**, _Analyse longitudinale des mécanismes d’adaptation à la chaleur chez le porc à partir de données omiques_ ([pdf](/diapos/Biopuces_Janvier_2024.pdf)) 
 
