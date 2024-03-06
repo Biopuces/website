@@ -5,15 +5,15 @@ title: Liste des présentations
 
 # **A venir**
 
-* 13 Juin 2024
-* 30 Mai 2024
+* 13 Juin 2024 : **Yareni Perez-Diaz** 
+* 30 Mai 2024 : **Cervin Guyomar & Sylvain Foissac**, _TAGADA, a scalable pipeline to improve genome annotations with RNA-seq data_
 * 25 Avril 2024
-* 21 Mars 2024 : **Yareni Perez-Diaz** 
+* 21 Mars 2024 : 
 
 
 # **Année 2024**
 
-* 29 Février 2024 : **Elise Maigné**, Eviter le sur-apprentissage en machine learning ([pdf](/diapos/2024_Eviter_surapprentissage_machinelearning.pdf))
+* 29 Février 2024 : **Elise Maigné**, _Eviter le sur-apprentissage en machine learning_ ([pdf](/diapos/2024_Eviter_surapprentissage_machinelearning.pdf))
 
 * 25 Janvier 2024 : **Guilhem Huau**, _Analyse longitudinale des mécanismes d’adaptation à la chaleur chez le porc à partir de données omiques_ ([pdf](/diapos/Biopuces_Janvier_2024.pdf)) 
 
