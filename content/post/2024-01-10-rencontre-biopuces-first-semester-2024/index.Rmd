@@ -1,7 +1,7 @@
 ---
 title: Les rencontres Biopuces, dates pour le premier semestre 2024
 author: ''
-date: '2024-03-20'
+date: '2024-03-19'
 slug: []
 categories: []
 tags: []
