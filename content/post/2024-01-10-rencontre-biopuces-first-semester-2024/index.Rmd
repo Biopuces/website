@@ -1,7 +1,7 @@
 ---
 title: Les rencontres Biopuces, dates pour le premier semestre 2024
 author: ''
-date: '2024-01-10'
+date: '2024-03-2024'
 slug: []
 categories: []
 tags: []
@@ -15,7 +15,7 @@ Vous trouverez ci-dessous les prochaines dates pour le début de la saison 2024 
 
 * 29 février 2023 à 9h30
 
-* 21 mars 2023 à 9h30 
+* 21 mars 2023 à 9h30 : annulé
 
 * 25 avril 2023 à 9h30  
 

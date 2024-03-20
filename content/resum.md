@@ -8,7 +8,7 @@ title: Liste des présentations
 * 13 Juin 2024 : **Yareni Perez-Diaz** 
 * 30 Mai 2024 : **Cervin Guyomar & Sylvain Foissac**, _TAGADA, a scalable pipeline to improve genome annotations with RNA-seq data_
 * 25 Avril 2024
-* 21 Mars 2024 : 
+* 21 Mars 2024 : annulé
 
 
 # **Année 2024**
