@@ -17,3 +17,5 @@ Présentation de **Marie Tremblay-Franco**
 Intégration de données de métabolomique multimodales pour prédire le déclin cognitif de personnes âgées
 
 Le diaporama de cette présentation sera mis prochainement. Merci de votre compréhension. 
+
+Le lien pour l'article :https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glae077/7624092?login=true
