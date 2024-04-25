@@ -1,0 +1,25 @@
+---
+title: Comment gérer les données manquantes ?, Alyssa Imbert
+author: ''
+date: '2024-04-25'
+slug: []
+categories: []
+tags: 
+- données manquantes
+---
+
+
+Présentation d' **Alyssa Imbert**
+
+Comment gérer les données manquantes ? 
+
+
+Dans cette présentation, nous voyons qu'est-ce qu'une donnée manquante, les différents mécanismes de données manquantes ainsi que les différentes stratégies existantes pour prendre en compte les valeurs manquantes.
+
+Vous trouverez la présentation à ce lien : [pdf](/diapos/Missingdata_2024_04.pdf).
+
+Quelques liens utiles : 
+
+* https://cran.r-project.org/web/views/MissingData.html
+* https://rmisstastic.netlify.app/
+
