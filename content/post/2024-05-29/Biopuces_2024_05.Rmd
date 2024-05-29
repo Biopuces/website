@@ -1,0 +1,22 @@
+---
+title: TAGADA, a scalable pipeline to improve genome annotations with RNA-seq data, Cervin Guyomar and Sylvain Foissac
+author: ''
+date: '2024-05-29'
+slug: []
+categories: []
+tags: 
+- annotation
+- RNASeq
+---
+
+
+Présentation d' **Cervin Guyomar** et **Sylvain Foissac**
+
+TAGADA, a scalable pipeline to improve genome annotations with RNA-seq data
+
+
+Cervin et Sylvain vont nous expliquer comment améliorer l’annotation de nos données RNAseq avec TAGADA.
+
+<!-- Vous trouverez la présentation à ce lien : [pdf](/diapos/Missingdata_2024_04.pdf). -->
+
+Et voici la publication : https://academic.oup.com/nargab/article/5/4/lqad089/7318076
