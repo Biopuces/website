@@ -6,10 +6,12 @@ title: Liste des présentations
 # **A venir**
 
 * 13 Juin 2024 : **Yareni Perez-Diaz** 
-* 30 Mai 2024 : **Cervin Guyomar & Sylvain Foissac**, _TAGADA, a scalable pipeline to improve genome annotations with RNA-seq data_
+
 
 
 # **Année 2024**
+
+* 30 Mai 2024 : **Cervin Guyomar & Sylvain Foissac**, _TAGADA, a scalable pipeline to improve genome annotations with RNA-seq data_ ([pdf](/diapos/2024_05_30_TAGADA_biopuces.pdf))
 
 * 25 Avril 2024 : **Alyssa Imbert**, _Comment gérer les données manquantes ?_ ([pdf](/diapos/Missingdata_2024_04.pdf))
 
