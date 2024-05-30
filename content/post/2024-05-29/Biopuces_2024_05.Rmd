@@ -19,4 +19,4 @@ Cervin et Sylvain vont nous expliquer comment améliorer l’annotation de nos d
 
 Vous trouverez la présentation à ce lien : [pdf](/diapos/2024_05_30_TAGADA_biopuces.pdf).
 
-Et voici la publication : https://academic.oup.com/nargab/article/5/4/lqad089/7318076
+Voici la publication : https://doi.org/10.1093/nargab/lqad089 et le lien donné par Sylvain au cours de la présentation pour d'autres données TAGADA : https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.57745/3UGLXW
