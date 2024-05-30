@@ -1,7 +1,7 @@
 ---
 title: TAGADA, a scalable pipeline to improve genome annotations with RNA-seq data, Cervin Guyomar and Sylvain Foissac
 author: ''
-date: '2024-05-29'
+date: '2024-05-30'
 slug: []
 categories: []
 tags: 
