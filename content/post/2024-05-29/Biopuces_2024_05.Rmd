@@ -17,6 +17,6 @@ TAGADA, a scalable pipeline to improve genome annotations with RNA-seq data
 
 Cervin et Sylvain vont nous expliquer comment améliorer l’annotation de nos données RNAseq avec TAGADA.
 
-<!-- Vous trouverez la présentation à ce lien : [pdf](/diapos/Missingdata_2024_04.pdf). -->
+Vous trouverez la présentation à ce lien : [pdf](/diapos/2024_05_30_TAGADA_biopuces.pdf).
 
 Et voici la publication : https://academic.oup.com/nargab/article/5/4/lqad089/7318076
