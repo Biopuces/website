@@ -5,11 +5,18 @@ title: Liste des présentations
 
 # **A venir**
 
-* 13 Juin 2024 : **Yareni Perez-Diaz** 
+* 12 Décembre 2024
 
+* 14 Novembre 2024
+
+* 03 Octobre 2024
+
+* 19 Septembre 2024
 
 
 # **Année 2024**
+
+* 13 Juin 2024 : **Yareni Duranthon (Perez-Diaz)** _Outils d’analyse lipidomique appliqués à du lait de ruminants alimentés avec différents régimes supplémentés en lipides_
 
 * 30 Mai 2024 : **Cervin Guyomar & Sylvain Foissac**, _TAGADA, a scalable pipeline to improve genome annotations with RNA-seq data_ ([pdf](/diapos/2024_05_30_TAGADA_biopuces.pdf))
 
