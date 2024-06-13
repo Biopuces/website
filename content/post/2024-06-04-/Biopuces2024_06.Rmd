@@ -1,8 +1,18 @@
 ---
-title: ''
+title: Outils d’analyse lipidomique appliqués à du lait de ruminants alimentés avec différents régimes supplémentés en lipides, Yareni Duranthon
 author: ''
-date: '2024-06-04'
+date: '2024-06-13'
 slug: []
 categories: []
-tags: []
+tags: 
+- outils bioinformatiques
+- lipidomique
 ---
+
+
+Présentation de **Yareni Duranthon (Perez-Diaz)**
+
+
+Outils d’analyse lipidomique appliqués à du lait de ruminants alimentés avec différents régimes supplémentés en lipides
+
+<!-- Vous trouverez la présentation à ce lien : [pdf](/diapos/nom.pdf). -->
