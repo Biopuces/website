@@ -5,13 +5,13 @@ title: Liste des présentations
 
 # **A venir**
 
-* 12 Décembre 2024
+* 12 Décembre 2024 : **Mitja Briscik** _titre à venir_
 
-* 14 Novembre 2024
+* 21 Novembre 2024
 
 * 03 Octobre 2024
 
-* 19 Septembre 2024
+* 19 Septembre 2024 : **Bara Lo**  _Etude comparative de la toxicité pulmonaire de fragments de clivage d’actinolite et de fibres d’amiante_ 
 
 
 # **Année 2024**
