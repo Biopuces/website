@@ -4,7 +4,10 @@ author: ''
 date: '2024-09-19'
 slug: []
 categories: []
-tags: []
+tags: 
+
+- transcriptomics
+- RNAseq 
 ---
 
 Présentation de **Bara LO**
