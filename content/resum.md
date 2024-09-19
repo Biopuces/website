@@ -7,14 +7,14 @@ title: Liste des présentations
 
 * 12 Décembre 2024 : **Mitja Briscik** _titre à venir_
 
-* 21 Novembre 2024
+* 21 Novembre 2024 : **Céline Bougel** _titre à venir_
 
 * 03 Octobre 2024
 
-* 19 Septembre 2024 : **Bara Lo**  _Etude comparative de la toxicité pulmonaire de fragments de clivage d’actinolite et de fibres d’amiante_ 
-
 
 # **Année 2024**
+
+* 19 Septembre 2024 : **Bara Lo**  _Etude comparative de la toxicité pulmonaire de fragments de clivage d’actinolite et de fibres d’amiante_ 
 
 * 13 Juin 2024 : **Yareni Duranthon (Perez-Diaz)** _Outils d’analyse lipidomique appliqués à du lait de ruminants alimentés avec différents régimes supplémentés en lipides_
 
