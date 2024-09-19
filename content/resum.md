@@ -9,7 +9,7 @@ title: Liste des présentations
 
 * 21 Novembre 2024 : **Céline Bougel** _titre à venir_
 
-* 03 Octobre 2024
+* 03 Octobre 2024: **Kim-Anh Lê Cao** _Microbial network inference for longitudinal microbiome studies with LUPINE_
 
 
 # **Année 2024**
