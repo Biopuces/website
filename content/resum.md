@@ -16,7 +16,7 @@ title: Liste des présentations
 
 # **Année 2024**
 
-* 19 Septembre 2024 : **Bara Lo**  _Etude comparative de la toxicité pulmonaire de fragments de clivage d’actinolite et de fibres d’amiante_ 
+* 19 Septembre 2024 : **Bara Lo**  _Etude comparative de la toxicité pulmonaire de fragments de clivage d’actinolite et de fibres d’amiante_ ([pdf](/diapos/2024_09_Biopuce_BaraLo.pdf))
 
 * 13 Juin 2024 : **Yareni Duranthon (Perez-Diaz)** _Outils d’analyse lipidomique appliqués à du lait de ruminants alimentés avec différents régimes supplémentés en lipides_
 
