@@ -5,6 +5,8 @@ title: Liste des présentations
 
 # **A venir**
 
+* 16 Janvier 2025 : **Aurélie Mercadié** _titre à venir_
+
 * 12 Décembre 2024 : **Mitja Briscik** _titre à venir_
 
 * 21 Novembre 2024 : **Céline Bougel** _titre à venir_
