@@ -11,10 +11,12 @@ title: Liste des présentations
 
 * 21 Novembre 2024 : **Céline Bougel** _titre à venir_
 
-* 03 Octobre 2024: **Kim-Anh Lê Cao** _Microbial network inference for longitudinal microbiome studies with LUPINE_
+
 
 
 # **Année 2024**
+
+* 03 Octobre 2024: **Kim-Anh Lê Cao** _Microbial network inference for longitudinal microbiome studies with LUPINE_
 
 * 19 Septembre 2024 : **Bara Lo**  _Etude comparative de la toxicité pulmonaire de fragments de clivage d’actinolite et de fibres d’amiante_ ([pdf](/diapos/2024_09_Biopuce_BaraLo.pdf))
 
