@@ -15,7 +15,7 @@ Présentation de **Kim-Anh Lê Cao**
 
 Microbial network inference for longitudinal microbiome studies with LUPINE
 
-Vous trouverez la présentation à ce lien : [pdf](/diapos/LUPINE_Biopuces.pdf).
+Vous trouverez la présentation via ce lien : [pdf](/diapos/LUPINE_Biopuces.pdf).
 
 ### Résumé de la présentation
 
