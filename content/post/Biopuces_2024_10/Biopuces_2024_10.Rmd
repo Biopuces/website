@@ -1,0 +1,26 @@
+---
+title: Microbial network inference for longitudinal microbiome studies with LUPINE, Kim-Anh Lê Cao
+author: ''
+date: '2024-10-03'
+slug: []
+categories: []
+tags: 
+
+- microbiome
+- données longitudinales
+- inférence de réseau
+---
+
+Présentation de **Kim-Anh Lê Cao**
+
+Microbial network inference for longitudinal microbiome studies with LUPINE
+
+### Résumé de la présentation
+
+The microbiome is a complex ecosystem of interdependent taxa that has traditionally been studied through cross-sectional studies. However, longitudinal microbiome studies are becoming increasingly popular. These studies enable researchers to infer taxa associations towards the understanding of coexistence, competition, and collaboration between microbes across time. Traditional metrics for association analysis, such as correlation, are limited due to the data characteristics of microbiome data (sparse, compositional, multivariate). Several network inference methods have been proposed but have been largely unexplored in a longitudinal setting.
+I will introduce our latest method LUPINE (LongitUdinal modelling with Partial least squares regression for NEtwork inference), a novel approach that leverages on conditional independence and low-dimensional data representation. This method is specifically designed to handle scenarios with small sample sizes and small number of time points. LUPINE is the first method of its kind to infer microbial networks across time, while considering information from all past time points and is thus able to capture dynamic microbial interactions that evolve over time. 
+I will illustrate the use of LUPINE on several case studies  across different experimental designs (mouse and human studies, with or without interventions, as short or long time courses). 
+This is joint work with Dr Saritha Kodikara.
+
+
+Le package R *LUPINE* est disponible sur github (https://github.com/SarithaKodikara/LUPINE.) et l'article est sur biorXiv (https://doi.org/10.1101/2024.05.08.593086). 
