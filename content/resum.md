@@ -14,9 +14,9 @@ title: Liste des présentations
 
 
 
-# **Année 2024**
+# **Année 2024** 
 
-* 03 Octobre 2024: **Kim-Anh Lê Cao** _Microbial network inference for longitudinal microbiome studies with LUPINE_ ([pdf](/diapos/LUPINE_Biopuces.pdf))
+* 03 Octobre 2024: **Kim-Anh Lê Cao** _Microbial network inference for longitudinal microbiome studies with LUPINE_ ([pdf](/diapos/LUPINE_Biopuces.pdf), [video](http://mixomics.org/2024/05/lupine/))
 
 * 19 Septembre 2024 : **Bara Lo**  _Etude comparative de la toxicité pulmonaire de fragments de clivage d’actinolite et de fibres d’amiante_ ([pdf](/diapos/2024_09_Biopuce_BaraLo.pdf))
 
