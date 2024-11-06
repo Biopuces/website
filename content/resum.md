@@ -9,9 +9,7 @@ title: Liste des présentations
 
 * 12 Décembre 2024 : **Mitja Briscik** _titre à venir_
 
-* 21 Novembre 2024 : **Céline Bougel** _titre à venir_
-
-
+* 21 Novembre 2024 : **Céline Bougel** _Intégration de données omiques et sélection de variables_
 
 
 # **Année 2024** 
