@@ -14,7 +14,9 @@ Présentation de **Céline Bougel**
 
 Intégration de données omiques et sélection de variables.
 
-<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/nom_pres.pdf). -->
+Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2024_11_21.pdf).
+
+Le package R *ConsensusOPLS* est disponible sur le CRAN (https://cran.r-project.org/web/packages/ConsensusOPLS/index.html).
 
 ### Résumé  
 
