@@ -9,10 +9,12 @@ title: Liste des présentations
 
 * 12 Décembre 2024 : **Mitja Briscik** _titre à venir_
 
-* 21 Novembre 2024 : **Céline Bougel** _Intégration de données omiques et sélection de variables_
+
 
 
 # **Année 2024** 
+
+* 21 Novembre 2024 : **Céline Bougel** _Intégration de données omiques et sélection de variables_ ([pdf](/diapos/Biopuces_2024_11_21.pdf))
 
 * 03 Octobre 2024: **Kim-Anh Lê Cao** _Microbial network inference for longitudinal microbiome studies with LUPINE_ ([pdf](/diapos/LUPINE_Biopuces.pdf), [video](http://mixomics.org/2024/05/lupine/))
 
