@@ -8,6 +8,8 @@ tags:
 
 - intégration de données
 - sélection de variables
+- kernel 
+- ConsensusOPLS
 ---
 
 Présentation de **Céline Bougel**
