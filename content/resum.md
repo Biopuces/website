@@ -7,7 +7,7 @@ title: Liste des présentations
 
 * 16 Janvier 2025 : **Aurélie Mercadié** _titre à venir_
 
-* 12 Décembre 2024 : **Mitja Briscik** _titre à venir_
+* 12 Décembre 2024 : **Mitja Briscik** _Kernel Approaches for Multi-Omics Data Analysis and Biomarker Discovery_
 
 
 
