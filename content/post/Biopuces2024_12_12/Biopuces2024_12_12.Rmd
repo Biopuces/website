@@ -1,0 +1,15 @@
+---
+title: Kernel Approaches for Multi-Omics Data Analysis and Biomarker Discovery, Mitja Briscik
+author: ''
+date: '2024-12-12'
+slug: []
+categories: []
+tags: 
+- kernel 
+---
+
+Présentation de **Mitja Briscik**
+
+Kernel Approaches for Multi-Omics Data Analysis and Biomarker Discovery
+
+<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/blabla.pdf). -->
