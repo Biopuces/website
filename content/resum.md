@@ -7,12 +7,10 @@ title: Liste des présentations
 
 * 16 Janvier 2025 : **Aurélie Mercadié** _titre à venir_
 
-* 12 Décembre 2024 : **Mitja Briscik** _Kernel Approaches for Multi-Omics Data Analysis and Biomarker Discovery_
-
-
-
 
 # **Année 2024** 
+
+* 12 Décembre 2024 : **Mitja Briscik** _Kernel Approaches for Multi-Omics Data Analysis and Biomarker Discovery_
 
 * 21 Novembre 2024 : **Céline Bougel** _Intégration de données omiques et sélection de variables_ ([pdf](/diapos/Biopuces_2024_11_21.pdf))
 
