@@ -5,7 +5,8 @@ date: '2024-12-12'
 slug: []
 categories: []
 tags: 
-- kernel 
+- kernel
+- intégration de données
 ---
 
 Présentation de **Mitja Briscik**
