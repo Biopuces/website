@@ -5,12 +5,17 @@ title: Liste des présentations
 
 # **A venir**
 
+* 12 juin 2025
+* 15 mai 2025
+* 10 avril 2025
+* 10 mars 2025
+* 13 février 2025
 * 16 Janvier 2025 : **Aurélie Mercadié** _titre à venir_
 
 
 # **Année 2024** 
 
-* 12 Décembre 2024 : **Mitja Briscik** _Kernel Approaches for Multi-Omics Data Analysis and Biomarker Discovery_
+* 12 Décembre 2024 : **Mitja Briscik** _Kernel Approaches for Multi-Omics Data Analysis and Biomarker Discovery_ ([pdf](/diapos/Biopuces_2024_12_12.pdf))
 
 * 21 Novembre 2024 : **Céline Bougel** _Intégration de données omiques et sélection de variables_ ([pdf](/diapos/Biopuces_2024_11_21.pdf))
 
@@ -36,7 +41,7 @@ title: Liste des présentations
 * 19 Octobre 2023 : **Céline Boby**, _Web server pour les analyses d’enrichissement Gene Ontology, réseaux…_ ([pdf](/diapos/Biopuces_2023_10_19_Boby.pdf))
 * 14 Septembre 2023 : **Quentin Le-Graverand**, _Prédire l'efficience alimentaire de l'ovin en intégrant des données hétérogènes: analyse multi-omique sur plusieurs années_ ([pdf](/diapos/biopuces_2023_09_QLG.pdf))
 * 22 Juin 2023 : **Yannick Lippi**, _MATRix app, une application RShiny pour explorer les résultats d'analyses transcriptomiques_ ([pdf](/diapos/20230622_GpBiopuces_Presentation_MAtrixApp.pdf))
-* 25 Mai 2023 : **Arthur Durante**, _Détection de QTL d’expressions chez le porc élevé en milieu tempéré ou tropica_ ([pdf](/diapos/Biopuces_2023mai_Durante.pdf)) et **Nassim Duprat**, _Intégration multi-omiques de l’endomètre de porc en fin de gestation_ ([pdf](/diapos/Biopuces_2023mai_Duprat.pdf))
+* 25 Mai 2023 : **Arthur Durante**, _Détection de QTL d’expressions chez le porc élevé en milieu tempéré ou tropical_ ([pdf](/diapos/Biopuces_2023mai_Durante.pdf)) et **Nassim Duprat**, _Intégration multi-omiques de l’endomètre de porc en fin de gestation_ ([pdf](/diapos/Biopuces_2023mai_Duprat.pdf))
 * 6 Avril 2023 : **Denis Laloe**, _Méthodes d’analyse intégrative spatiotemporelle de données omiques_ ([pdf](/diapos/Biopuces_Laloe_2023_04_06.pdf))
 * 9 Mars 2023 : **Marco Moroldo**, _Studying the genetic control of abiotic stress-related metabolites using GWAS_ ([pdf](/diapos/Presentation_2023_03_09_Biopuces.pdf))
 * 9 Février 2023 : **Nuria Mach-Casellas**, _Gut microbiome in horses, the sprint towards endurance fitness_ ([pdf](/diapos/Biopuces_nuria_2023_02_09.pdf))
