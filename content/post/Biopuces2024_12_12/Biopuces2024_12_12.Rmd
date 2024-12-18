@@ -13,4 +13,4 @@ Présentation de **Mitja Briscik**
 
 Kernel Approaches for Multi-Omics Data Analysis and Biomarker Discovery
 
-<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/blabla.pdf). -->
+Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2024_12_12.pdf).
