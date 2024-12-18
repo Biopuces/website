@@ -8,7 +8,7 @@ title: Liste des présentations
 * 12 juin 2025
 * 15 mai 2025
 * 10 avril 2025
-* 10 mars 2025
+* 13 mars 2025
 * 13 février 2025
 * 16 Janvier 2025 : **Aurélie Mercadié** _titre à venir_
 
