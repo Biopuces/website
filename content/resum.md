@@ -16,23 +16,14 @@ title: Liste des présentations
 # **Année 2024** 
 
 * 12 Décembre 2024 : **Mitja Briscik** _Kernel Approaches for Multi-Omics Data Analysis and Biomarker Discovery_ ([pdf](/diapos/Biopuces_2024_12_12.pdf))
-
 * 21 Novembre 2024 : **Céline Bougel** _Intégration de données omiques et sélection de variables_ ([pdf](/diapos/Biopuces_2024_11_21.pdf))
-
 * 03 Octobre 2024: **Kim-Anh Lê Cao** _Microbial network inference for longitudinal microbiome studies with LUPINE_ ([pdf](/diapos/LUPINE_Biopuces.pdf), [video](http://mixomics.org/2024/05/lupine/))
-
 * 19 Septembre 2024 : **Bara Lo**  _Etude comparative de la toxicité pulmonaire de fragments de clivage d’actinolite et de fibres d’amiante_ ([pdf](/diapos/2024_09_Biopuce_BaraLo.pdf))
-
 * 13 Juin 2024 : **Yareni Duranthon (Perez-Diaz)** _Outils d’analyse lipidomique appliqués à du lait de ruminants alimentés avec différents régimes supplémentés en lipides_
-
 * 30 Mai 2024 : **Cervin Guyomar & Sylvain Foissac**, _TAGADA, a scalable pipeline to improve genome annotations with RNA-seq data_ ([pdf](/diapos/2024_05_30_TAGADA_biopuces.pdf))
-
 * 25 Avril 2024 : **Alyssa Imbert**, _Comment gérer les données manquantes ?_ ([pdf](/diapos/Missingdata_2024_04.pdf))
-
 * ~~21 Mars 2024 : annulé~~
-
 * 29 Février 2024 : **Elise Maigné**, _Eviter le sur-apprentissage en machine learning_ ([pdf](/diapos/2024_Eviter_surapprentissage_machinelearning.pdf))
-
 * 25 Janvier 2024 : **Guilhem Huau**, _Analyse longitudinale des mécanismes d’adaptation à la chaleur chez le porc à partir de données omiques_ ([pdf](/diapos/Biopuces_Janvier_2024.pdf)) 
 
 # **Année 2023**
