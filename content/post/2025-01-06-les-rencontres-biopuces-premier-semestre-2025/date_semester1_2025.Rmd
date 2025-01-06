@@ -1,0 +1,24 @@
+---
+title: Les rencontres Biopuces, premier semestre 2025
+author: ''
+date: '2025-01-06'
+slug: []
+categories: []
+tags: []
+---
+
+Voici les prochaines dates pour le début de la saison 2025 (sous réserve de modifications) : 
+
+* 16 janvier 2025 à 9h30 : **Aurélie Mercadié**, Multi-omics data analysis to extract group profiles with NMFProfiler
+
+* 13 février 2025 à 9h30 : **Alice Lacan** _titre à venir_
+
+* 13 mars 2025 à 9h30 
+
+* 10 avril 2025 à 9h30  
+
+* 15 mai 2025 à 9h30 
+
+* 12 juin 2025 à 9h30
+
+Vous pouvez ainsi noter les dates dans vos agendas. 
