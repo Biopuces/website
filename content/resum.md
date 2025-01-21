@@ -10,9 +10,10 @@ title: Liste des présentations
 * 10 avril 2025
 * 13 mars 2025 : **Lucas Sort** _Functional Generalized Canonical Correlation Analysis for studying multiple longitudinal variables_
 * 13 février 2025 : **Alice Lacan** _titre à venir_
-* 16 Janvier 2025 : **Aurélie Mercadié** _Multi-omics data analysis to extract group profiles with NMFProfiler_
 
 # **Année 2025**
+
+* 16 Janvier 2025 : **Aurélie Mercadié** _Multi-omics data analysis to extract group profiles with NMFProfiler_ ([pdf](/diapos/Biopuces_2025_01_16.pdf))
 
 # **Année 2024** 
 
