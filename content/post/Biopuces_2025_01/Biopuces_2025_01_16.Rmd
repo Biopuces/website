@@ -1,0 +1,19 @@
+---
+title: Multi-omics data analysis to extract group profiles with NMFProfiler
+author: ''
+date: '2025-01-21'
+slug: []
+categories: []
+tags: 
+- intégration de données
+- NMF 
+---
+
+
+Présentation d'**Aurélie Mercadié**
+
+Multi-omics data analysis to extract group profiles with NMFProfiler
+
+Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2025_01_16.pdf).
+
+Le package Python **nmfprofiler** est disponible sur [gitlab](https://forgemia.inra.fr/omics-integration/nmfprofiler) ou sur [PyPI](https://pypi.org/project/NMFProfiler/).
