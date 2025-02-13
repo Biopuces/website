@@ -1,0 +1,21 @@
+---
+title: 'Transcriptomics data generation with deep generative models'
+author: ''
+date: '2025-02-13'
+slug: []
+categories: []
+tags: 
+- transcriptomics
+- IA
+- deep generative models
+---
+
+
+Présentation d'**Alice Lacan**
+
+Transcriptomics data generation with deep generative models
+
+Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2025_02_13.pdf).
+
+
+ 
