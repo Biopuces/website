@@ -1,0 +1,22 @@
+---
+title: Functional Generalized Canonical Correlation Analysis for studying multiple longitudinal variables
+author: ''
+date: '2025-03-13'
+slug: []
+categories: []
+tags: 
+- intégration de données
+- données longitudinales
+- analyse fonctionnelle
+---
+
+
+Présentation de **Lucas Sort**
+
+Functional Generalized Canonical Correlation Analysis for studying multiple longitudinal variables
+
+<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2025_02_13.pdf). -->
+
+Pour plus d'information, vous pouvez aller voir l'article : https://doi.org/10.1093/biomtc/ujae113.
+
+Vous pouvez également consulter son manuscrit de thèse,intitulée *Development of new statistical approaches for the investigation of multiblock and tensor longitudinal data* : https://theses.hal.science/tel-04918883.
