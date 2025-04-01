@@ -15,7 +15,7 @@ Présentation de **Lucas Sort**
 
 Functional Generalized Canonical Correlation Analysis for studying multiple longitudinal variables
 
-<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2025_02_13.pdf). -->
+Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2025_03_13.pdf).
 
 Pour plus d'information, vous pouvez aller voir l'article : https://doi.org/10.1093/biomtc/ujae113.
 
