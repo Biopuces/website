@@ -7,7 +7,7 @@ title: Liste des présentations
 * 18 septembre 2025: **Camille Guilmineau**
 * 12 juin 2025
 * 15 mai 2025
-* 10 avril 2025: **Arthur Tenenhaus**
+* 10 avril 2025: **Arthur Tenenhaus** _Le cadre RGCCA : de la théorie à la pratique_
 
 
 # **Année 2025**
