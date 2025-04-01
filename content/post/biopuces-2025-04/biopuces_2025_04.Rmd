@@ -1,0 +1,18 @@
+---
+title: Le cadre RGCCA, de la théorie à la pratique. Arthur Tenenhaus
+author: ''
+date: '2025-04-01'
+slug: []
+categories: []
+tags: []
+---
+
+Présentation d'**Arthur Tenenhaus**
+
+Le cadre RGCCA : de la théorie à la pratique
+
+<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/.pdf). -->
+
+Le package R est disponible sur le [CRAN](https://cran.r-project.org/web/packages/RGCCA/index.html).
+
+Vous pouvez retrouver la vignette en cliquant sur ce lien : [vignette_RGCCA](https://cran.r-project.org/web/packages/RGCCA/vignettes/RGCCA.pdf). 
