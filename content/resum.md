@@ -7,12 +7,12 @@ title: Liste des présentations
 * 18 septembre 2025: **Camille Guilmineau**
 * 12 juin 2025
 * 15 mai 2025
-* 10 avril 2025
+* 10 avril 2025: **Arthur Tenenhaus**
 
 
 # **Année 2025**
 
-* 13 mars 2025 : **Lucas Sort** _Functional Generalized Canonical Correlation Analysis for studying multiple longitudinal variables_
+* 13 mars 2025 : **Lucas Sort** _Functional Generalized Canonical Correlation Analysis for studying multiple longitudinal variables_ ([pdf](/diapos/Biopuces_2025_03_13.pdf))
 * 13 février 2025 : **Alice Lacan** _Transcriptomics data generation with deep generative models_  ([pdf](/diapos/Biopuces_2025_02_13.pdf))
 * 16 Janvier 2025 : **Aurélie Mercadié** _Multi-omics data analysis to extract group profiles with NMFProfiler_ ([pdf](/diapos/Biopuces_2025_01_16.pdf))
 
