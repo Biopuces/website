@@ -11,7 +11,7 @@ Présentation d'**Arthur Tenenhaus**
 
 Le cadre RGCCA : de la théorie à la pratique
 
-<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/.pdf). -->
+Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces2025_04_RGCCA.pdf).
 
 Le package R est disponible sur le [CRAN](https://cran.r-project.org/web/packages/RGCCA/index.html).
 
