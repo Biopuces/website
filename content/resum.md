@@ -5,7 +5,7 @@ title: Liste des présentations
 
 # **A venir**
 * 18 septembre 2025: **Camille Guilmineau**
-* 12 juin 2025
+* 12 juin 2025: **Elen Goujon** _Accounting for confounding variation in multi-omics data integration_
 
 
 # **Année 2025**
