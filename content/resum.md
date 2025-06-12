@@ -12,7 +12,7 @@ title: Liste des présentations
 
 # **Année 2025**
 
-* 12 juin 2025: **Elen Goujon** _Accounting for confounding variation in multi-omics data integration_
+* 12 juin 2025: **Elen Goujon** _Accounting for confounding variation in multi-omics data integration_ ([pdf](/diapos/Biopuces_2025_06_12.pdf))
 * ~~15 mai 2025 :~~ annulé
 * 10 avril 2025: **Arthur Tenenhaus** _Le cadre RGCCA : de la théorie à la pratique_ ([pdf](/diapos/Biopuces2025_04_RGCCA.pdf))
 * 13 mars 2025 : **Lucas Sort** _Functional Generalized Canonical Correlation Analysis for studying multiple longitudinal variables_ ([pdf](/diapos/Biopuces_2025_03_13.pdf))

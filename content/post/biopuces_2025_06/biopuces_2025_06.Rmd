@@ -1,0 +1,17 @@
+---
+title: Accounting for confounding variation in multi-omics data integration. Elen Goujon
+author: ''
+date: '2025-06-12'
+slug: []
+categories: []
+tags: []
+---
+
+Présentation d'**Elen Goujon**
+
+Accounting for confounding variation in multi-omics data integration: application to the study of low-dose radiation effects in Chornobyl tree frogs
+
+Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2025_06_12.pdf).
+
+Le code pour AC-RGCCA est pour l'instant disponible sur une des [branches](https://github.com/rgcca-factory/RGCCA/tree/AC-RGCCA) du [github](https://github.com/rgcca-factory/RGCCAl).
+
