@@ -7,7 +7,7 @@ title: Liste des présentations
 * 11 décembre 2025
 * 06 novembre 2025
 * 09 octobre 2025
-* 18 septembre 2025: **Camille Guilmineau**
+* 11 septembre 2025: **Camille Guilmineau**
 
 
 # **Année 2025**
