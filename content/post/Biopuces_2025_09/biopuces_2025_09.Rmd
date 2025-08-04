@@ -1,0 +1,15 @@
+---
+title: Développements de modèles statistiques pour l'analyse de données métabolomiques longitudinales, Camille Guilmineau
+author: ''
+date: '2025-09-11'
+slug: []
+categories: []
+tags: []
+---
+
+Présentation de **Camille Guilmineau**
+
+Développements de modèles statistiques pour l'analyse de données métabolomiques longitudinales, application aux photogranules, Camille Guilmineau
+
+<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/.pdf). -->
+
