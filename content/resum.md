@@ -7,7 +7,7 @@ title: Liste des présentations
 * 11 décembre 2025
 * 13 novembre 2025
 * 09 octobre 2025
-* 11 septembre 2025: **Camille Guilmineau**
+* 11 septembre 2025: **Camille Guilmineau** _Développements de modèles statistiques pour l'analyse de données métabolomiques longitudinales, application aux photogranules_
 
 
 # **Année 2025**
