@@ -11,5 +11,5 @@ Présentation de **Camille Guilmineau**
 
 Développements de modèles statistiques pour l'analyse de données métabolomiques longitudinales, application aux photogranules, Camille Guilmineau
 
-<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/.pdf). -->
+Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2025_09_11.pdf).
 
