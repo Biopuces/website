@@ -4,10 +4,10 @@ title: Liste des présentations
 ---
 
 # **A venir**
-* 11 décembre 2025
-* 13 novembre 2025
-* 09 octobre 2025
-* 11 septembre 2025: **Camille Guilmineau** _Développements de modèles statistiques pour l'analyse de données métabolomiques longitudinales, application aux photogranules_
+* Mardi 09 décembre 2025 de 9h30à 12h30 : Séance exceptionnelle, **Arthur Tenenhaus**  Tuto sur le package RGCCA
+* 13 novembre 2025: **Paul Dou** Titre à venir
+* 09 octobre 2025: **Yannick Lippi & Gaëlle Payros** _Analyse d’expression différentielle par séquençage rationalisé : technologie 3’RNA-seq_
+* 11 septembre 2025: **Camille Guilmineau** _Développements de modèles statistiques pour l'analyse de données métabolomiques longitudinales, application aux photogranules_ ([pdf](/diapos/Biopuces_2025_09_11.pdf))
 
 
 # **Année 2025**
