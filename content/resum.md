@@ -7,11 +7,10 @@ title: Liste des présentations
 * Mardi 09 décembre 2025 de 9h30à 12h30 : Séance exceptionnelle, **Arthur Tenenhaus**  Tuto sur le package RGCCA
 * 13 novembre 2025: **Paul Dou** Titre à venir
 * 09 octobre 2025: **Yannick Lippi & Gaëlle Payros** _Analyse d’expression différentielle par séquençage rationalisé : technologie 3’RNA-seq_
-* 11 septembre 2025: **Camille Guilmineau** _Développements de modèles statistiques pour l'analyse de données métabolomiques longitudinales, application aux photogranules_ ([pdf](/diapos/Biopuces_2025_09_11.pdf))
-
 
 # **Année 2025**
 
+* 11 septembre 2025: **Camille Guilmineau** _Développements de modèles statistiques pour l'analyse de données métabolomiques longitudinales, application aux photogranules_ ([pdf](/diapos/Biopuces_2025_09_11.pdf))
 * 12 juin 2025: **Elen Goujon** _Accounting for confounding variation in multi-omics data integration_ ([pdf](/diapos/Biopuces_2025_06_12.pdf))
 * ~~15 mai 2025 :~~ annulé
 * 10 avril 2025: **Arthur Tenenhaus** _Le cadre RGCCA : de la théorie à la pratique_ ([pdf](/diapos/Biopuces2025_04_RGCCA.pdf))
