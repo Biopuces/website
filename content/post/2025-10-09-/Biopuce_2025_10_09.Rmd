@@ -1,0 +1,16 @@
+---
+title: "Analyse d’expression différentielle par séquençage rationalisé : technologie 3'RNA-seq, Gaëlle Payros et Yannick Lippi"
+author: ''
+date: '2025-10-09'
+slug: []
+categories: []
+tags: []
+---
+
+
+Présentation de **Gaëlle Payros** et **Yannick Lippi**
+
+Analyse d’expression différentielle par séquençage rationalisé : technologie 3'RNA-seq 
+
+Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2025_10_quantseq.pdf).
+
