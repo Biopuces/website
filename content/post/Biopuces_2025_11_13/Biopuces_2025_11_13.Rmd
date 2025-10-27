@@ -1,0 +1,16 @@
+---
+title: 'Introduction aux données compositionnelles, Paul Dou'
+author: ''
+date: '2025-11-13'
+slug: []
+categories: []
+tags: []
+---
+
+
+Présentation de **Paul Dou** 
+
+Introduction aux données compositionnelles
+
+<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/.pdf). -->
+
