@@ -5,7 +5,7 @@ title: Liste des présentations
 
 # **A venir**
 * Mardi 09 décembre 2025 de 9h30à 12h30 : Séance exceptionnelle, **Arthur Tenenhaus**  Tuto sur le package RGCCA
-* 13 novembre 2025: **Paul Dou** Titre à venir
+* 13 novembre 2025: **Paul Dou** _Introduction aux données compositionnelles_
 
 # **Année 2025**
 
