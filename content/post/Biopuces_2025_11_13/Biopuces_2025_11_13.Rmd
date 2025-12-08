@@ -12,5 +12,5 @@ Présentation de **Paul Dou**
 
 Introduction aux données compositionnelles
 
-<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/.pdf). -->
+Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2025_11_CoDA.pdf).
 
