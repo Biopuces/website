@@ -31,7 +31,7 @@ Les diapositives de la séance sont disponibles ici : [pdf](/diapos/RGCCA@Agro.p
 **Quelques références**
 
 * Girka, F., Camenen, E., Peltier, C., Gloaguen, A., Guillemot, V., Le Brusquet, L., & Tenenhaus, A. (2025). Multiblock data analysis with the RGCCA package. Journal of Statistical Software, 1-36.
-http://cran.project.org/web/packages/RGCCA/
+https://cran.r-project.org/web/packages/RGCCA/vignettes/RGCCA.pdf
 
 * Sort L., Le Brusquet L., Tenenhaus A. (2024) Functional Generalized Canonical Correlation Analysis for studying multiple longitudinal variables, Biometrics, 80(4) ([doi](https://doi.org/10.1093/biomtc/ujae113))
 
