@@ -4,11 +4,11 @@ title: Liste des présentations
 ---
 
 # **A venir**
-* Mardi 09 décembre 2025 de 9h30à 12h30 : Séance exceptionnelle, **Arthur Tenenhaus**  _Multiblock data analysis with the RGCCA package_
 
 
 # **Année 2025**
 
+* Mardi 09 décembre 2025 de 9h30à 12h30 : Séance exceptionnelle en collaboration avec [StateOftheR](https://stateofther.netlify.app/), **Arthur Tenenhaus** _Multiblock data analysis with the RGCCA package_ ([pdf](/diapos/RGCCA@Agro.pdf))
 * 13 novembre 2025: **Paul Dou** _Introduction aux données compositionnelles_ ([pdf](/diapos/Biopuces_2025_11_CoDA.pdf))
 * 09 octobre 2025: **Yannick Lippi & Gaëlle Payros** _Analyse d’expression différentielle par séquençage rationalisé : technologie 3’RNA-seq_ ([pdf](/diapos/Biopuces_2025_10_quantseq.pdf))
 * 11 septembre 2025: **Camille Guilmineau** _Développements de modèles statistiques pour l'analyse de données métabolomiques longitudinales, application aux photogranules_ ([pdf](/diapos/Biopuces_2025_09_11.pdf))
