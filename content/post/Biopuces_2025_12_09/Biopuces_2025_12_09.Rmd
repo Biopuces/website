@@ -26,7 +26,7 @@ from GitHub at https://github.com/rgcca-factory/RGCCA.
  
 **Slides**
 
-Les diapositives de la séance sont disponibles ici : [pdf](/diapos/RGCCA@Agro.pdf) 
+Les diapositives de la séance sont disponibles ici : [pdf](/diapos/RGCCA@Agro.pdf) and the [Rmd file](/diapos/tutorial_rgcca_package.Rmd)
 
 **Quelques références**
 
