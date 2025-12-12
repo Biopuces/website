@@ -28,6 +28,7 @@ from GitHub at https://github.com/rgcca-factory/RGCCA.
 
 Les diapositives de la séance sont disponibles ici : [pdf](/diapos/RGCCA@Agro.pdf) and the [Rmd file](/diapos/tutorial_rgcca_package.Rmd)
 
+
 **Quelques références**
 
 * Girka, F., Camenen, E., Peltier, C., Gloaguen, A., Guillemot, V., Le Brusquet, L., & Tenenhaus, A. (2025). Multiblock data analysis with the RGCCA package. Journal of Statistical Software, 1-36.
@@ -50,5 +51,7 @@ https://cran.r-project.org/web/packages/RGCCA/vignettes/RGCCA.pdf
 * Tenenhaus A, Tenenhaus M (2011) Regularized generalized canonical correlation analysis, vol. 76, pp. 257-284, Psychometrika ([doi](https://doi.org/10.1007/s11336-011-9206-8))
 
 **Autre**
+
+Voici le post de StateOftheR sur cet évènement https://stateofther.netlify.app/post/rgcca/ 
 
 N'hésitez pas à aller voir les présentations du réseau StateOftheR : https://stateofther.netlify.app/
