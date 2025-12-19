@@ -5,6 +5,12 @@ title: Liste des présentations
 
 # **A venir**
 
+* 18 juin 2026 
+* 21 mai 2026
+* 16 avril 2026
+* 12 mars 2026
+* 19 février 2026
+* 22 janvier 2026
 
 # **Année 2025**
 
