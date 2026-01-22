@@ -13,7 +13,7 @@ title: Liste des présentations
 
 # **Année 2026**
 
-* 22 janvier 2026 : **Martin Beaumont** _Apports de la transcriptomique à l’échelle de la cellule unique pour comprendre la maturation de l’épithélium intestinal_
+* 22 janvier 2026 : **Martin Beaumont** _Apports de la transcriptomique à l’échelle de la cellule unique pour comprendre la maturation de l’épithélium intestinal_ ([pdf](/diapos/20260122_BIOPUCE_BEAUMONT.pdf))
 
 # **Année 2025**
 

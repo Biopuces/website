@@ -1,0 +1,18 @@
+---
+title: 'Apports de la transcriptomique à l’échelle de la cellule unique pour comprendre la maturation de l’épithélium intestinal, Martin Beaumont'
+author: ''
+date: '2026-01-22'
+slug: []
+categories: []
+tags: []
+---
+
+Présentation de **Martin Beaumont** 
+
+Apports de la transcriptomique à l’échelle de la cellule unique pour comprendre la maturation de l’épithélium intestinal 
+
+Vous trouverez la présentation via ce lien : [pdf](/diapos/20260122_BIOPUCE_BEAUMONT.pdf).
+
+Vous pouvez retrouver plus d'information via l'article : A  Single-Cell Atlas of Transcriptome Changes in the Intestinal Epithelium at the Suckling-to-Weaning Transition in Male Rabbits, T. Malonga et al. (2026) [doi](https://doi.org/10.1016/j.jcmgh.2025.101628) 
+
+Et le lien pour le portail afin de visualiser les données : [url_portail](https://singlecell.broadinstitute.org/single_cell/study/SCP2662/single-cell-transcriptomics-in-caecum-epithelial-cells-of-suckling-rabbits-with-or-without-access-to-solid-food#study-visualize)
