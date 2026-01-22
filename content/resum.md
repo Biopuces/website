@@ -8,8 +8,11 @@ title: Liste des présentations
 * 18 juin 2026 
 * 21 mai 2026
 * 16 avril 2026
-* 12 mars 2026
+* 19 mars 2026
 * 19 février 2026 : **Ekaterina Tomilina**
+
+# **Année 2026**
+
 * 22 janvier 2026 : **Martin Beaumont** _Apports de la transcriptomique à l’échelle de la cellule unique pour comprendre la maturation de l’épithélium intestinal_
 
 # **Année 2025**
