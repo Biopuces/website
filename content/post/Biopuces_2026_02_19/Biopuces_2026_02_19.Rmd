@@ -1,0 +1,15 @@
+---
+title: 'Inférence de réseaux de régulation multi-omiques via la copule Gaussienne, Ekaterina Tomilina '
+author: ''
+date: '2026-02-19'
+slug: []
+categories: []
+tags: []
+---
+
+Présentation de **Ekaterina Tomilina** 
+
+Inférence de réseaux de régulation multi-omiques via la copule Gaussienne
+
+<!-- Vous trouverez la présentation via ce lien : [pdf](/diapos/.pdf). -->
+
