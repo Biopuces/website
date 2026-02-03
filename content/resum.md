@@ -8,8 +8,8 @@ title: Liste des présentations
 * 18 juin 2026 
 * 21 mai 2026
 * 16 avril 2026
-* 19 mars 2026
-* 19 février 2026 : **Ekaterina Tomilina**
+* 19 mars 2026 : **Alexandre Duplan** _titre à venir_
+* 19 février 2026 : **Ekaterina Tomilina** _Inférence de réseaux de régulation multi-omiques via la copule Gaussienne_
 
 # **Année 2026**
 
