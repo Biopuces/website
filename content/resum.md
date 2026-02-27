@@ -6,13 +6,14 @@ title: Liste des présentations
 # **A venir**
 
 * 18 juin 2026 
-* 21 mai 2026
+* 21 mai 2026: **Nadia Bessoltane & Delphine Charif** _RFLOMICS: Interactive Web Application for Multi-Omics project Analysis_
 * 16 avril 2026
 * 19 mars 2026 : **Alexandre Duplan** _titre à venir_
-* 19 février 2026 : **Ekaterina Tomilina** _Inférence de réseaux de régulation multi-omiques via la copule Gaussienne_
+
 
 # **Année 2026**
 
+* 19 février 2026 : **Ekaterina Tomilina** _Inférence de réseaux de régulation multi-omiques via la copule Gaussienne_ ([pdf](/diapos/Biopuces_2026_02_tomilina.pdf))
 * 22 janvier 2026 : **Martin Beaumont** _Apports de la transcriptomique à l’échelle de la cellule unique pour comprendre la maturation de l’épithélium intestinal_ ([pdf](/diapos/20260122_BIOPUCE_BEAUMONT.pdf))
 
 # **Année 2025**
