@@ -13,3 +13,4 @@ Inférence de réseaux de régulation multi-omiques via la copule Gaussienne
 
 Vous trouverez la présentation via ce lien : [pdf](/diapos/Biopuces_2026_02_tomilina.pdf).
 
+Pour plus d'information, lien vers le manuscrit de thèse : https://theses.hal.science/tel-05411173 
