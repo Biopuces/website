@@ -5,10 +5,10 @@ title: Liste des présentations
 
 # **A venir**
 
-* 18 juin 2026 
+* 18 juin 2026: 
 * 21 mai 2026: **Nadia Bessoltane & Delphine Charif** _RFLOMICS: Interactive Web Application for Multi-Omics project Analysis_
-* 16 avril 2026
-* 19 mars 2026 : **Alexandre Duplan** _titre à venir_
+* 16 avril 2026:
+* 19 mars 2026 : **Alexandre Duplan** _Rôle de l’épigénétique dans la mémoire environnementale, l’adaptation locale et la prédiction de phénotypes complexes chez le peuplier _
 
 
 # **Année 2026**
