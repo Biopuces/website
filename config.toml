@@ -67,3 +67,8 @@ googleAnalytics = ""
 #    url = "https://www.stackoverflow.com/username/"
 #    name = "fab fa-stack-overflow"
 #    weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
